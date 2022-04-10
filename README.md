@@ -6,5 +6,5 @@ Used external libraries [glfw](https://www.glfw.org/) [delfem2](https://github.c
 1. `git submodule update --init`
 2. `cmake -S . -B build` in project folders such as `1_pbd_2D`
 
-## 1_pbd_2D
+## 1_pbd_2D (position based dynamic)
 ![thunm](pictures/pbd_2d.gif)
