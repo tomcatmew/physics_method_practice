@@ -1,6 +1,6 @@
 # physics_method_practice
 Some popular and fundamental physics methods.\
-Used external libraries [glfw](https://www.glfw.org/) [delfem2](https://github.com/nobuyuki83/delfem2)
+Used external libraries [glfw](https://www.glfw.org/), [delfem2](https://github.com/nobuyuki83/delfem2)
 
 # Install
 1. `git submodule update --init`
